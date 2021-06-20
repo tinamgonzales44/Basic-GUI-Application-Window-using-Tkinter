@@ -36,8 +36,6 @@
 
 <!-- ABOUT THE PlainGUI -->
 ## About The Plain GUI
-Basic-GUI-Application-Window-using-Tkinter
-
 
 ### Built With
 
